@@ -8,7 +8,7 @@
         "ports": [
                 {
                         "name": "https",
-                        "protocol": "tcp",
+                        "protocol": "TCP",
                         "port": 27443,
         "targetPort": 443
                 }
